@@ -1,0 +1,12 @@
+C:\Users\Satya Maddila\source\repos\LINQ Join MUL\bin\Debug\netcoreapp3.1\LINQ Join MUL.exe
+C:\Users\Satya Maddila\source\repos\LINQ Join MUL\bin\Debug\netcoreapp3.1\LINQ Join MUL.deps.json
+C:\Users\Satya Maddila\source\repos\LINQ Join MUL\bin\Debug\netcoreapp3.1\LINQ Join MUL.runtimeconfig.json
+C:\Users\Satya Maddila\source\repos\LINQ Join MUL\bin\Debug\netcoreapp3.1\LINQ Join MUL.runtimeconfig.dev.json
+C:\Users\Satya Maddila\source\repos\LINQ Join MUL\bin\Debug\netcoreapp3.1\LINQ Join MUL.dll
+C:\Users\Satya Maddila\source\repos\LINQ Join MUL\bin\Debug\netcoreapp3.1\LINQ Join MUL.pdb
+C:\Users\Satya Maddila\source\repos\LINQ Join MUL\obj\Debug\netcoreapp3.1\LINQ Join MUL.AssemblyInfoInputs.cache
+C:\Users\Satya Maddila\source\repos\LINQ Join MUL\obj\Debug\netcoreapp3.1\LINQ Join MUL.AssemblyInfo.cs
+C:\Users\Satya Maddila\source\repos\LINQ Join MUL\obj\Debug\netcoreapp3.1\LINQ Join MUL.csproj.CoreCompileInputs.cache
+C:\Users\Satya Maddila\source\repos\LINQ Join MUL\obj\Debug\netcoreapp3.1\LINQ Join MUL.dll
+C:\Users\Satya Maddila\source\repos\LINQ Join MUL\obj\Debug\netcoreapp3.1\LINQ Join MUL.pdb
+C:\Users\Satya Maddila\source\repos\LINQ Join MUL\obj\Debug\netcoreapp3.1\LINQ Join MUL.genruntimeconfig.cache
